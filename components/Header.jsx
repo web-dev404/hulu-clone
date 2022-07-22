@@ -23,7 +23,7 @@ const Header = () => {
                 <HeaderItem title={'ACCOUNT'} Icon={UserIcon} />
             </div>
 
-            <Image className={'object-contain'} width={200} height={100} src={'https://links.papareact.com/ua6'}/>
+            <Image className={'object-contain'} alt={'test name'} width={200} height={100} src={'https://links.papareact.com/ua6'}/>
         </header>
     )
 }
